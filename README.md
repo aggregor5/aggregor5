@@ -51,5 +51,5 @@
 <a href="https://ko-fi.com/rudranshgupta"> 
 <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rudranshgupta" /></a>
 </p>
-
+<img src="https://gh-readme.vercel.app/api/top-langs/?username=praneshchow&layout=compact&langs_count=10&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506" />
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RudranshGupta&show_icons=true&locale=en" alt="RudranshGupta" /></p>
